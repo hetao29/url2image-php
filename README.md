@@ -2,6 +2,8 @@
 
 url2image 根据生成图片的服务的php库
 
+服务端及安装请参考 https://github.com/hetao29/url2image
+
 ## 安装方法
 
 ```bash
