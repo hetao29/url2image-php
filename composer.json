@@ -18,9 +18,9 @@
         }
     ],
 	"autoload":{
-		"files":["SlightPHP.php"],
+		"files":["libs/Liburltoimage/UrltoimageClient.php"],
 		"psr-4":{
-			"":["plugins/"]
+			"":["libs/"]
 		}
 	}
 }
